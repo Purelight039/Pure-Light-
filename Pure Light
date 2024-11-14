@@ -1,0 +1,5 @@
+name = "purelight"
+age = 19
+level ="OND 1"
+interests = "technology"
+print("purelight's info")
